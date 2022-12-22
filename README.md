@@ -1,6 +1,4 @@
-
-
-https://user-images.githubusercontent.com/80176553/209030679-01193d08-4daa-45cd-b428-226b82082824.mp4
+https://user-images.githubusercontent.com/80176553/209030773-26ab5340-d975-43b4-906b-852e0664ea89.mp4
 
 # Boomerang-God Of War Axe Throw
  Exploring 3Cs of character by copying the God of War axe throw but using a boomerang instead. This influences the trajectory of the object itself.
