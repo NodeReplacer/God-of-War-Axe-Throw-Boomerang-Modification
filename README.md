@@ -1,7 +1,7 @@
 https://user-images.githubusercontent.com/80176553/209031732-7ef1b023-4c41-4af6-91f3-426bd3d4482c.mp4
 
 # Boomerang-God Of War Axe Throw
- Exploring 3Cs of character by copying the God of War axe throw but using a boomerang instead. This influences the trajectory of the object itself.
+ Exploring 3Cs of character by copying the God of War axe throw but using a boomerang instead. Initially wanted to copy the Wind Boomerang from Twilight Princess but it seems to just make a straight path and then starts clipping through objects for multiple targets. This influences the trajectory of the object itself.
 
 # Controls
 With the Capsule (Simple):
