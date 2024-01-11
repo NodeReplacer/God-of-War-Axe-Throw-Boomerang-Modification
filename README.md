@@ -14,7 +14,6 @@ R - Returns to the main menu.
 
 
 With the Fullbody Rig (Animated):
-
 WASD Keys - Moves
 
 Right Click - Aims, Returns the boomerang if it was thrown.
